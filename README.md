@@ -6,23 +6,23 @@ Decryption is the process of converting encrypted or encoded information back to
 ## Why Decryption is important?
 Decryption is essential for several reasons, especially in areas where data security and privacy are critical. Here’s why it’s important:
 
-  1.Data Security
-  2.Privacy Protection
-  3.Legal Compliance
-  4.Data Integrity
-  5.Trust in Digital Transactions
-  6.Access Control
+1.Data Security
+2.Privacy Protection
+3.Legal Compliance
+4.Data Integrity
+5.Trust in Digital Transactions
+6.Access Control
 
 ## Key components of Decryption:
 
-  1.Ciphertext
-  2.Decryption Key
-  3.Decryption Algorithm
-  4.Plaintext
-  5.Key Management System (KMS)
-  6.Authentication
+1.Ciphertext
+2.Decryption Key
+3.Decryption Algorithm
+4.Plaintext
+5.Key Management System (KMS)
+6.Authentication
 
 ## About Code
 Libraries required for the program :
-  1.Random module
-  2.String module
+1.Random module
+2.String module
