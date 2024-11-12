@@ -14,7 +14,6 @@ Decryption is essential for several reasons, especially in areas where data secu
 6.Access Control
 
 ## Key components of Decryption:
-
 1.Ciphertext
 2.Decryption Key
 3.Decryption Algorithm
